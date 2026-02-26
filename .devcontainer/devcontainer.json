@@ -1,1 +1,6 @@
-
+{
+  "name": "High Power Runner",
+  "hostRequirements": {
+    "cpus": 16
+  }
+}
